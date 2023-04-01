@@ -1,0 +1,6 @@
+C:\Tugas\Pemrograman\TugasAplikasiTaxi\TugasAplikasiTaxi\bin\Debug\TugasAplikasiTaxi.exe.config
+C:\Tugas\Pemrograman\TugasAplikasiTaxi\TugasAplikasiTaxi\bin\Debug\TugasAplikasiTaxi.exe
+C:\Tugas\Pemrograman\TugasAplikasiTaxi\TugasAplikasiTaxi\bin\Debug\TugasAplikasiTaxi.pdb
+C:\Tugas\Pemrograman\TugasAplikasiTaxi\TugasAplikasiTaxi\obj\Debug\TugasAplikasiTaxi.csprojResolveAssemblyReference.cache
+C:\Tugas\Pemrograman\TugasAplikasiTaxi\TugasAplikasiTaxi\obj\Debug\TugasAplikasiTaxi.exe
+C:\Tugas\Pemrograman\TugasAplikasiTaxi\TugasAplikasiTaxi\obj\Debug\TugasAplikasiTaxi.pdb
